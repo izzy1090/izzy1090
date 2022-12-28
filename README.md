@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-Currently I'm pursuing work as a backend developer and would like to be part of a team of clever engineers working towards developing smart solutions for difficult challenges. Before my career as a developer, I worked for 7+ years in the music industry as a music supervisor, audio engineer/producer and composer. Since then, I've written programs utilizing C/C++, JavaScript, React JS, Swift, and HTML/CSS to bring my ideas to life. I love the process of creating something from nothing and obsessed with designing programs to work efficiently.
+Currently I'm pursuing work as a backend developer and would like to be part of a team of clever engineers working towards developing smart solutions for difficult challenges. Previously, I worked for 7+ years in the music industry as a music supervisor, audio engineer/producer and composer. Since then, I've written programs utilizing C/C++, JavaScript, React JS, Swift, and HTML/CSS to bring my ideas to life. I love the process of creating something from nothing and obsessed with designing programs to work efficiently.
 
 * 🌍  I'm based in New York City
 * ✉️  You can contact me at [michaelisabella1@gmail.com](mailto:michaelisabella1@gmail.com)
