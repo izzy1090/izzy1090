@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Michael_Isabella
 - 👀 I’m interested in efficient functionality, clever design and large data structures with compelling information.
 - 🌱 I’m currently pursuing a career as a software engineer.
-- 💞️ I’m looking to collaborate on fun, but tough problems.
+- 💞️ I’m looking to collaborate on fun, but tough challenges.
 - 📫 How to reach me Twitter - @izzyisabella13
 
 <!---
