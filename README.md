@@ -10,7 +10,7 @@ I'm pursuing a backend developer position and would like to collaborate with a t
 * ✉️  You can contact me at [michaelisabella1@gmail.com](mailto:michaelisabella1@gmail.com)
 * 🚀  I'm currently working on a [Reddit Search Engine](http://searchingreddit.vercel.app/)
 * 🧠  I'm learning C++ and Swift/iOS Development
-* 🤝  I'm open to collaborating on projects looking to manipulate large data structures and .
+* 🤝  I'm open to collaborating on projects looking to manipulate large data structures.
 * ⚡  You can hear music I've written on reality tv shows such as: Catfish, 90 Day Fiance, Keeping Up With The Kardashians and more!
 
 ### Skills
