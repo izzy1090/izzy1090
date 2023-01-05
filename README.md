@@ -4,14 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-I'm pursuing a developer position with an emphasis on backend functionality and would like to collaborate with a team of passionate engineers on fun challenges. Previously, I worked in the music industry as a music supervisor, audio engineer/producer and composer for 7+ years. Since then, I've written programs utilizing C/C++, JavaScript, React JS, Next JS, Swift, and HTML/CSS to bring ideas into action. I enjoy the process of creating and maximizing program efficiency.
+I'm looking for a position with an emphasis on solving hard problems while collaborating with a team of engineers on fun challenges. Previously, I worked in the music industry as a music supervisor, audio engineer/producer and composer for 7+ years. Since then, I've written programs utilizing C/C++, JavaScript, React JS, Next JS, Swift, and HTML/CSS to bring ideas into action. I enjoy the process of creating something from nothing and maximizing efficiency.
 
 * 🌍  I'm based in New York City
 * ✉️  You can contact me at [michaelisabella1@gmail.com](mailto:michaelisabella1@gmail.com)
 * 🚀  I'm currently working on a [Reddit Search Engine](http://searchingreddit.vercel.app/)
 * 🧠  I'm learning C++ and Swift/iOS Development
 * 🤝  I'm open to collaborating on projects looking to manipulate large data structures.
-* ⚡  You can hear music I've written on reality tv shows such as: Catfish, 90 Day Fiance, Keeping Up With The Kardashians and more!
+* ⚡  You can hear music I've written on tv shows such as: Catfish, 90 Day Fiance, Keeping Up With The Kardashians and more!
 
 ### Skills
 
