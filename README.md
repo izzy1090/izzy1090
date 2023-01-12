@@ -9,7 +9,7 @@ I'm looking for a position with an emphasis on solving hard problems while colla
 * 🌍  I'm based in New York City
 * ✉️  You can contact me at [michaelisabella1@gmail.com](mailto:michaelisabella1@gmail.com)
 * 🚀  I'm currently working on a [Reddit Search Engine](http://searchingreddit.vercel.app/)
-* 🧠  I'm learning C++ and Swift/iOS Development
+* 🧠  I'm learning Swift/iOS Development
 * 🤝  I'm open to collaborating on projects looking to manipulate large data structures.
 * ⚡  You can hear music I've written on tv shows such as: Catfish, 90 Day Fiance, Keeping Up With The Kardashians and more!
 
