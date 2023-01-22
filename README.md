@@ -9,8 +9,8 @@ I’m looking for a Full-Stack engineering role on a highly skilled team working
 * 🌍  I'm based in New York, NY
 * ✉️  You can contact me at [michaelisabella1@gmail.com](mailto:michaelisabella1@gmail.com)
 * 🚀  I'm currently working on [Reddit Search Engine](http://searchingreddit.vercel.app/)
-* 🧠  I'm learning Swift/iOS Development
-* 🤝  I'm open to collaborating on projects looking to manipulate large data structures
+* 🧠  I'm learning Swift/iOS Development and improving my C++ skills.
+* 🤝  I'm open to collaborating on your project, just reach out! I would love to hear from you.
 * ⚡  You can hear music I've written on tv shows such as: Catfish, 90 Day Fiance, Keeping Up With The Kardashians and more!
 
 ### Skills
