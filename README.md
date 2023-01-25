@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Michael Isabella
 ========================================================================================================================================
 
-Full Stack Developer & Software Engineer
+Full Stack Developer
 ---------------------------------
 
 I’m looking for a Full-Stack engineering role on a highly skilled team working with a modern technical stack to create web applications and solve difficult challenges. Previously, I worked in the music industry as a music supervisor, audio engineer/producer and composer for 7+ years. I enjoy the process of creating something from nothing and maximizing efficiency.
