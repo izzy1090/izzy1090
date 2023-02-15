@@ -10,7 +10,7 @@ I’m looking for a Full-Stack engineering role on a highly skilled team working
 * ✉️  You can contact me at [michaelisabella1@gmail.com](mailto:michaelisabella1@gmail.com)
 * 🧠  I'm currently building a game engine for fun and working on other portfolio worthy projects currently.
 * 🤝  I'm looking to collaborate on open source projects and searching for a project with a positive impact (i.e. fighting / understanding climate change). 
-* ⚡  Special fact about me, I've written music that's been placed on reality tv such as: Catfish, 90 Day Fiance, Keeping Up With The Kardashians and more!
+* ⚡  Special fact about me, I've composed music for popular tv shows such as: Catfish, 90 Day Fiance, Keeping Up With The Kardashians and more! You can also find rock music I've written on Spotify under the pseudonym Harvey Bruce.
 
 ### Skills
 
