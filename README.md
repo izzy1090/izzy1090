@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Programmer
 ---------------------------------
 
-I’m looking for a Full-Stack engineering role on a highly skilled team working with a modern technical stack to create web applications and solve difficult challenges. Previously, I worked in the music industry as a music supervisor, audio engineer/producer and composer for 7+ years. I enjoy the process of creating something from nothing and maximizing efficiency.
-
 * 🌍  I'm based in New York, NY
 * ✉️  You can contact me at [michaelisabella1@gmail.com](mailto:michaelisabella1@gmail.com)
 * 🧠  I'm currently developing a [Sega Genesis game](https://github.com/izzy1090/adventure-rpg) and a [Reddit User History](https://github.com/izzy1090/reddit-user-history) web app.
