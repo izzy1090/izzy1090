@@ -6,7 +6,7 @@ Programmer
 
 * 🌍  I'm based in New York, NY
 * ✉️  You can contact me at [michaelisabella1@gmail.com](mailto:michaelisabella1@gmail.com)
-* 🧠  I'm currently developing a [Sega Genesis game](https://github.com/izzy1090/adventure-rpg) and a [Reddit User History](https://github.com/izzy1090/reddit-user-history) web app.
+* 🧠  I'm currently developing a [Sega Genesis game](https://github.com/izzy1090/adventure-rpg).
 * 🤝  I'm looking to collaborate on open source projects and searching for a project with a positive impact.
 * ⚡  Special fact about me, I've composed music for popular tv shows such as: Catfish, 90 Day Fiance, Keeping Up With The Kardashians and more! You can also find rock music I've written on Spotify under the pseudonym Harvey Bruce.
 
